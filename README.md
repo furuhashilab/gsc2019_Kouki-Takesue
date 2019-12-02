@@ -27,4 +27,7 @@ https://docs.google.com/presentation/d/1OsO54yhrfZswJOOY3bfYDDKxPPcuIW9K-VhtrGD4
   https://boiling-mountain-83235.herokuapp.com/
   ![screenshot2](https://github.com/kouki-T/imagebox/blob/master/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202019-12-02%2013.32.23.png)
   
-  原因はreturnsa先がhtmlになってなかったからぽい。Flaskのテンプレートに上手く組み込めないか試験中←イマココ
+  原因はreturn先がhtmlになってなかったからぽい。Flaskのテンプレートに上手く組み込めないか試験中←イマココ
+
+* とりあえず内容はGitHubwikiでいいかなぁと思案中。<br>
+スタートページできたよー。
