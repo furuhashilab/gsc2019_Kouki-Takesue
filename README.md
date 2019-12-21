@@ -31,3 +31,6 @@ https://docs.google.com/presentation/d/1OsO54yhrfZswJOOY3bfYDDKxPPcuIW9K-VhtrGD4
 
 * とりあえず内容はGitHubwikiでいいかなぁと思案中。<br>
 スタートページできたよー。
+
+* とりあえず書き始めたよー
+https://docs.google.com/document/d/1IKFoF_jw6Ew8CO1M2sh2xnmQOdk7aPO5GglsygWl1RM/edit?usp=sharing
