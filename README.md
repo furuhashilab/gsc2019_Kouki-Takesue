@@ -34,3 +34,6 @@ https://docs.google.com/presentation/d/1OsO54yhrfZswJOOY3bfYDDKxPPcuIW9K-VhtrGD4
 
 * とりあえず書き始めたよー
 https://docs.google.com/document/d/1IKFoF_jw6Ew8CO1M2sh2xnmQOdk7aPO5GglsygWl1RM/edit?usp=sharing
+
+pg_dump --table sotsurontest4 test > sotsurontest.sql
+psql herokudb < sotsurontest.sql
