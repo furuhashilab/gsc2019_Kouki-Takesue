@@ -6,5 +6,6 @@ https://docs.google.com/document/d/1IKFoF_jw6Ew8CO1M2sh2xnmQOdk7aPO5GglsygWl1RM/
 ## 制作物
 https://osmuc.herokuapp.com/
 
-pg_dump --table sotsurontest4 test > sotsurontest.sql
+## 魔法の呪文
+pg_dump --table sotsurontest4 test > sotsurontest.sql  
 psql herokudb < sotsurontest.sql
