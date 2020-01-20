@@ -3,6 +3,9 @@
 ## ２０１９年古橋研究室2期生ゼミ論
 https://docs.google.com/document/d/1IKFoF_jw6Ew8CO1M2sh2xnmQOdk7aPO5GglsygWl1RM/edit?usp=sharing
 
+## 参考文献
+https://docs.google.com/spreadsheets/d/15s6fjbjaUqAXOm3RTmikgRs0yxqCvqb6uQqei54mvPI/edit?usp=sharing
+
 ## 制作物
 https://osmuc.herokuapp.com/
 
