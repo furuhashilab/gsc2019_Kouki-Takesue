@@ -15,3 +15,6 @@ https://osmuc.herokuapp.com/
 ## 魔法の呪文
 pg_dump --table sotsurontest4 test > sotsurontest.sql  
 psql herokudb < sotsurontest.sql
+
+## 業務連絡
+GithubPagesの更新適用には1－2時間程度かかるそうなのでよろしくお願いします。武末
